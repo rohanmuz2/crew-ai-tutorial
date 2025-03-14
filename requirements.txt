@@ -1,0 +1,6 @@
+crewai
+crewai_tools
+langchain_community
+python_dotenv
+databricks
+databricks-sdk
